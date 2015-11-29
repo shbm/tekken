@@ -1,6 +1,6 @@
 # TEKKEN
 
-A module to generate random names of Tekken characters in node.js 
+A node.js module to generate random names of Tekken characters.
 
 Inspired from [mortalkombat](https://github.com/mediaupstream/mortalkombat)
 
