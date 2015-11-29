@@ -4,12 +4,27 @@
   "description": "A module to generate name of Tekken characters. List of names has been compiled from the wikipedia page. See https://en.wikipedia.org/wiki/List_of_Tekken_characters",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha ./test/test-tekken.js"
   },
   "keywords": [
     "tekken",
     "names"
   ],
   "author": "Shubham Srivastava <shbm09@gmail.com> (http://www.shbm.io/)",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/shbm/tekken.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shbm/tekken/issues"
+  },
+  "homepage": "https://github.com/shbm/tekken",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
 }

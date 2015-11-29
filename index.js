@@ -186,7 +186,9 @@ var tekkenNames = [
 ];
 
 module.exports = {
-    characters : tekkenNames,
+    characters : function() {
+        return tekkenNames;
+    },
     name : function() {
         var l = this.characters.length-1;
         return this.characters[ Math.floor( Math.random() * l ) ];
