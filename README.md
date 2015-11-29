@@ -2,7 +2,7 @@
 
 Inspired from [mortalkombat](https://github.com/mediaupstream/mortalkombat)
 
-## INSTALLING
+## INSTALLATION
 ```shell
 npm install tekken
 ```
@@ -12,7 +12,7 @@ npm install tekken
 ```javascript
 var tekken = require('tekken');
 
-tekken.characters; //Returns an array of string with all names of tekken characters
+tekken.characters; //Returns an array of string with names of all tekken characters
 
 tekken.name(); //Generates random name of a tekken player
 ```
