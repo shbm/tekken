@@ -1,5 +1,7 @@
 # TEKKEN
 
+A module to generate random names of Tekken characters in node.js 
+
 Inspired from [mortalkombat](https://github.com/mediaupstream/mortalkombat)
 
 ## INSTALLATION
@@ -14,7 +16,7 @@ var tekken = require('tekken');
 
 tekken.characters; //Returns an array of string with names of all tekken characters
 
-tekken.name(); //Generates random name of a tekken player
+tekken.name(); //Generates random name of a tekken character
 ```
 
 ## LICENSE
