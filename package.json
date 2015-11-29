@@ -1,0 +1,15 @@
+{
+  "name": "tekken",
+  "version": "0.0.1",
+  "description": "A module to generate name of Tekken characters. List of names has been compiled from the wikipedia page. See https://en.wikipedia.org/wiki/List_of_Tekken_characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tekken",
+    "names"
+  ],
+  "author": "Shubham Srivastava <shbm09@gmail.com> (http://www.shbm.io/)",
+  "license": "MIT"
+}
