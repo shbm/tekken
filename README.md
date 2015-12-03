@@ -1,5 +1,6 @@
 # TEKKEN
 [![Build Status](https://travis-ci.org/shbm/tekken.svg)](https://travis-ci.org/shbm/tekken)
+[![Downloads/Month](https://img.shields.io/npm/dm/tekken.svg)](https://www.npmjs.com/package/tekken)
 
 A node.js module to generate random names of Tekken characters.
 
