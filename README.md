@@ -36,3 +36,7 @@ t.sherlock.characters(); // returns an Array of names of Sherlock characters
 
 ## LICENSE
 MIT
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shbm/tekken/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
