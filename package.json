@@ -1,6 +1,6 @@
 {
   "name": "tekken",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A module to generate name of Tekken characters. List of names has been compiled from the wikipedia page. See https://en.wikipedia.org/wiki/List_of_Tekken_characters",
   "main": "index.js",
   "scripts": {
@@ -8,16 +8,79 @@
   },
   "keywords": [
     "tekken",
-    "names"
+    "names",
+    "breaking",
+    "bad",
+    "walter",
+    "white",
+    "jesse",
+    "pinkman",
+    "gus",
+    "suits",
+    "harvey",
+    "spector",
+    "mike",
+    "ross",
+    "louis",
+    "litt",
+    "jessica",
+    "pearson",
+    "friends",
+    "joey",
+    "chandler",
+    "ross",
+    "phoebe",
+    "rachel",
+    "monica",
+    "game",
+    "thrones",
+    "game of thrones",
+    "jon",
+    "snow",
+    "daenerys",
+    "targaryen",
+    "tyrion",
+    "lanniester",
+    "arya",
+    "stark",
+    "khal",
+    "drogo",
+    "Margaery",
+    "Tyrell",
+    "Jaime",
+    "Lannister",
+    "sherlock",
+    "holmes",
+    "watson",
+    "irene",
+    "adler",
+    "hudon",
+    "mycroft",
+    "moriarty",
+    "silicon",
+    "valley",
+    "richard",
+    "hendriks",
+    "erlich",
+    "bachmann",
+    "dinesh",
+    "jared",
+    "dunn",
+    "gilfoyle",
+    "big",
+    "head",
+    "peter",
+    "gregory"
   ],
   "author": "Shubham Srivastava <shbm09@gmail.com> (http://www.shbm.io/)",
   "license": "MIT",
   "directories": {
+    "example": "example",
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/shbm/tekken.git"
+    "url": "git+ssh://git@github.com/shbm/tekken.git"
   },
   "bugs": {
     "url": "https://github.com/shbm/tekken/issues"
@@ -26,5 +89,6 @@
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4"
-  }
+  },
+  "dependencies": {}
 }
